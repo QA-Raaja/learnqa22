@@ -1,0 +1,13 @@
+file 1
+Learning git
+1.first step config to github
+git config --global user.name "name of repo"
+git config --global user.email "raaja.dura.com"
+git config --global user.password "May@20229080385770"
+
+2.step clone the existing code
+git clone "url"
+git add nameoffile -- git add -A(TO ADD ALL THE FILES)
+git commit -m "2ndcommit"
+git push origin main
+
